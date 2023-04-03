@@ -1,7 +1,7 @@
 # binpiler
 The compiler for real programmers coding in a real programming language (binary) :P
 
-#Build
+# Build
 
 Just enter
 ```bash
