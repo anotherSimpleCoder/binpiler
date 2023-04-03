@@ -9,3 +9,9 @@ Just enter
 ```
 
 and your binary should be in the /target/debug directory.
+
+#Usage
+
+```bash
+./binpiler <srcFile> <outFileName>
+```
